@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="texto_nombre">"El Alumno es: "</string>
+    <string name="texto_letrero">"School Agenda "</string>
+    <string name="nombreAlu">"Student's name: "</string>
+    <string name="apAlu">"Last name: "</string>
+    <string name="amAlu">"Mother's last name: "</string>
+    <string name="genAlu">"Gender (M/F): "</string>
+    <string name="edadAlu">"Birthdate: "</string>
+    <string name="boton1">"sign up "</string>
+    <string name="diaAlu">"Day "</string>
+    <string name="mesAlu">"Month "</string>
+    <string name="anoAlu" translatable="false">"Year "</string>
+    <string name="anosAlu">"Age "</string>
+    <string name="rfcAlu">"RFC "</string>
+    <string name="HorosAlu">"Horoscope "</string>
+</resources>

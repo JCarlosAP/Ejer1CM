@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Ejercicio1</string>
+    <string name="texto_nombre">"El Alumno es: "</string>
+    <string name="texto_letrero">"Agenda FI "</string>
+    <string name="nombreAlu">"Nombre del Alumno: "</string>
+    <string name="apAlu">"Apellido Paterno: "</string>
+    <string name="amAlu">"Apellido Materno: "</string>
+    <string name="genAlu">"Genero (M/F): "</string>
+    <string name="edadAlu">"Fecha De Nacimiento: "</string>
+    <string name="boton1">"Registrar "</string>
+    <string name="diaAlu">"Dia "</string>
+    <string name="mesAlu">"Mes "</string>
+    <string name="anoAlu">"Año "</string>
+    <string name="anosAlu">"Edad "</string>
+    <string name="rfcAlu">"RFC "</string>
+    <string name="HorosAlu">"Horoscopo "</string>
+
+</resources>
